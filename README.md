@@ -16,9 +16,11 @@ The below sections are a "table of contents" for the packet captures in this rep
 
 ## Module 3
 
-* **[Clip 3](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m3/m3c3_packet_too_big.pcapng)**: Demonstrates IPv4 packets with Don't Fragment (DF) bit variations through ICMP Echo Request and ICMP Echo Reply messages.
+* **[Clip 3](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m3/m3c3_ipv4_packet_too_big.pcapng)**: Demonstrates IPv4 packets with Don't Fragment (DF) bit variations through ICMP Echo Request and ICMP Echo Reply messages.
 * **[Clip 4](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m3/m3c4_ipv4_fragments.pcapng)**: Demonstrates IPv4 fragmentation through large ICMP Echo Request and ICMP Echo Reply messages.
-* **[Clip 5](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m3/m3c5_traceroute.pcapng)**: Demonstrates IPv4 TTL value analysis.
+* **[Clip 5](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m3/m3c5_ipv4_traceroute.pcapng)**: Demonstrates IPv4 TTL value analysis.
+* **[Clip 8](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m3/m3c3_ipv6_packet_too_big.pcapng)**: Demonstrates IPv6 packets where the packet is noted as too large to traverse the network path as dictated by an ICMPv6 Packet Too Big message sent in response to an ICMPv6 Echo Request message.
+* **[Clip 9](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m3/m3c9_ipv6_traceroute.pcapng)**: Demonstrates IPv6 Hop Limit value analysis.
 
 ## Module 4
 
