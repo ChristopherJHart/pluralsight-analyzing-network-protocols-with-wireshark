@@ -24,7 +24,8 @@ The below sections are a "table of contents" for the packet captures in this rep
 
 ## Module 4
 
-Coming soon!
+* **[Clip 2](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m4/m4c2_udp_tftp_put.pcapng)**: Demonstrates UDP traffic through uploading a file to a TFTP server.
+* **[Clip 4](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m4/m4c4_tcp_ftp_put.pcapng)**: Demonstrates TCP traffic through uploading a file to an FTP server.
 
 ## Module 5
 
