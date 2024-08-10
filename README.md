@@ -29,7 +29,9 @@ The below sections are a "table of contents" for the packet captures in this rep
 
 ## Module 5
 
-Coming soon!
+* **[Clip 2](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m5/m5c2_icmp_ping.pcapng)**: Demonstrates ICMP Echo Request and ICMP Echo Reply messages.
+* **[Clip 3](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m5/m5c3_icmp_destination_unreachable.pcapng)**: Demonstrates ICMP Destination Unreachable messages with the Host Unreachable code.
+* **[Clip 4](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m5/m5c4_icmp_ttl_exceeded.pcapng)**: Demonstrates ICMP Time Exceeded messages with the TTL Exceeded in Transit code through a traceroute.
 
 ## Module 6
 
