@@ -35,9 +35,9 @@ The below sections are a "table of contents" for the packet captures in this rep
 
 ## Module 6
 
-* **[Clip 2](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m5/m6c2_dns.pcapng)**: Demonstrates DNS queries and responses, largely A and AAAA record lookups.
-* **[Clip 4](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m5/m6c4_dhcp.pcapng)**: Demonstrates DHCP Discover, DHCP Offer, DHCP Request, and DHCP Ack messages through a DHCP Relay Agent.
-* **[Clip 6](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m5/m6c6_ftp_active_get.pcapng)**: Demonstrates FTP Active Mode through interacting with an FTP server, including the retrieval of file contents.
+* **[Clip 2](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m6/m6c2_dns.pcapng)**: Demonstrates DNS queries and responses, largely A and AAAA record lookups.
+* **[Clip 4](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m6/m6c4_dhcp.pcapng)**: Demonstrates DHCP Discover, DHCP Offer, DHCP Request, and DHCP Ack messages through a DHCP Relay Agent.
+* **[Clip 6](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m6/m6c6_ftp_active_get.pcapng)**: Demonstrates FTP Active Mode through interacting with an FTP server, including the retrieval of file contents.
 
 ## Module 7
 
