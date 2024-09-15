@@ -41,4 +41,7 @@ The below sections are a "table of contents" for the packet captures in this rep
 
 ## Module 7
 
-Coming soon!
+* **[Clip 2](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m7/m7c2_http.pcapng)**: Demonstrates HTTP traffic, including GET and POST requests.
+* **Clip 4**
+    * **[m7c4_https.pcapng](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m7/m7c4_http_tls.pcapng)**: Demonstrates HTTPS traffic encrypted via TLS.
+    * **[m7c4_http_tls_sslkeylogfile.txt](https://github.com/ChristopherJHart/pluralsight-analyzing-network-protocols-with-wireshark/raw/main/m7/m7c4_http_tls_sslkeylogfile.txt)**: Contains the SSLKEYLOGFILE contents necessary to decrypt the HTTPS traffic in the `m7c4_https.pcapng` packet capture.
